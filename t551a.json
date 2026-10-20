@@ -1,0 +1,19 @@
+[
+  { "agrupamento": "37", "phtp": "1300", "texto": "12x36 18:20 06:20 (1h)", "semanas": [
+      ["N12A", "CP", "N12A", "CP", "N12A", "FOLG", "N12A"],
+      ["CP", "N12A", "CP", "N12A", "FOLG", "N12A", "CP"] ] },
+  { "agrupamento": "37", "phtp": "1301", "texto": "12x36 06:20 18:20 (1h)", "semanas": [
+      ["D12A", "CP", "D12A", "CP", "D12A", "FOLG", "D12A"],
+      ["CP", "D12A", "CP", "D12A", "FOLG", "D12A", "CP"] ] },
+  { "agrupamento": "37", "phtp": "1397", "texto": "Seg Sex 11:00 20:48", "semanas": [["V290", "V290", "V290", "V290", "V290", "SBCP", "FOLG"]] },
+  { "agrupamento": "37", "phtp": "1401", "texto": "Seg Sex 07:00 16:48", "semanas": [["V101", "V101", "V101", "V101", "V101", "SBCP", "FOLG"]] },
+  { "agrupamento": "37", "phtp": "1402", "texto": "Seg Sex 07:00 12:00", "semanas": [["M050", "M050", "M050", "M050", "M050", "SBCP", "FOLG"]] },
+  { "agrupamento": "37", "phtp": "1403", "texto": "Seg Sex 07:30 11:30", "semanas": [["M020", "M020", "M020", "M020", "M020", "SBCP", "FOLG"]] },
+  { "agrupamento": "37", "phtp": "1404", "texto": "Seg Sex 08:00 14:00", "semanas": [["M061", "M061", "M061", "M061", "M061", "SBCP", "FOLG"]] },
+  { "agrupamento": "37", "phtp": "1405", "texto": "Seg Sex 07:00 11:00", "semanas": [["M010", "M010", "M010", "M010", "M010", "SBCP", "FOLG"]] },
+  { "agrupamento": "37", "phtp": "1406", "texto": "Seg Sex 13:00 17:00", "semanas": [["T010", "T010", "T010", "T010", "T010", "SBCP", "FOLG"]] },
+  { "agrupamento": "37", "phtp": "1407", "texto": "Seg Sex 13:30 17:30", "semanas": [["T020", "T020", "T020", "T020", "T020", "SBCP", "FOLG"]] },
+  { "agrupamento": "37", "phtp": "1408", "texto": "Seg Sex 08:00 12:00", "semanas": [["M030", "M030", "M030", "M030", "M030", "SBCP", "FOLG"]] },
+  { "agrupamento": "37", "phtp": "1409", "texto": "Seg Sex 08:00 13:00 (Sab folga)", "semanas": [["M062", "M062", "M062", "M062", "M062", "FOLG", "FOLG"]] },
+  { "agrupamento": "37", "phtp": "1410", "texto": "Seg Sex 07:30 14:30", "semanas": [["M070", "M070", "M070", "M070", "M070", "SBCP", "FOLG"]] }
+]
